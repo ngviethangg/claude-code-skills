@@ -1,0 +1,16 @@
+# OAuth credentials — KHÔNG commit file này
+oauth_client.json
+credentials/
+*.json.bak
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Claude local settings
+.claude/settings.local.json
