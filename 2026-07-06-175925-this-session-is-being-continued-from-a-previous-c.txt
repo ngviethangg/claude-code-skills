@@ -1,0 +1,734 @@
+╭─── Claude Code v2.1.201 ─────────────────────────────────────────────────────╮
+│                                                    │ Tips for getting        │
+│                 Welcome back TOP 1!                │ started                 │
+│                                                    │ Run /init to create a … │
+│                       ▐▛███▜▌                      │ ─────────────────────── │
+│                      ▝▜█████▛▘                     │ What's new              │
+│                        ▘▘ ▝▝                       │ Claude Sonnet 5 sessio… │
+│   Sonnet 4.6 · Claude Pro · hoaa8k58@gmail.com's   │ Changed `AskUserQuesti… │
+│   Organization                                     │ Changed the "default" … │
+│                      ~/Claude                      │ /release-notes for more │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+ ▎ Fable 5 is back.
+ ▎ Until July 7, you can use up to 50% of your plan's weekly usage limit on Fable 5. If you hit your limit, you can continue on Fable 5 with usage credits. Fable 5 draws down usage faster than Opus 4.8. Learn more
+   +1 more · /status
+
+⏺ Crawl xong cả 4 URLs. Đây là báo cáo phân tích đầy đủ:
+
+  ---
+  🔍 SEO CONTENT GAP ANALYSIS
+
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  📌 Brand   : osakar.com.vn       (12.445 từ)
+  🏆 Đối thủ : xedienvietthanh.com · xedienmove.vn · tearu.vn
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ---
+  3.1 Heading / Section còn thiếu
+
+  So sánh H2 xuất hiện ở ≥2 đối thủ nhưng không có trong bài brand:
+
+  ┌────────────────────────────┬─────────────────────────┬─────────────────┐
+  │     Heading đang thiếu     │   Xuất hiện ở đối thủ   │  Gợi ý vị trí   │
+  │                            │                         │      chèn       │
+  ├────────────────────────────┼─────────────────────────┼─────────────────┤
+  │ "Xe máy điện cho học sinh  │                         │ Đầu bài — sapo  │
+  │ cấp 3 là xu hướng / tại    │ xedienvietthanh (1/3)   │ mở rộng         │
+  │ sao chọn"                  │                         │                 │
+  ├────────────────────────────┼─────────────────────────┼─────────────────┤
+  │ "Địa chỉ mua xe máy điện   │ xedienvietthanh (1/3)   │ Cuối bài        │
+  │ uy tín"                    │                         │                 │
+  ├────────────────────────────┼─────────────────────────┼─────────────────┤
+  │ "Tiêu chí chọn lựa" (tên   │ xedienvietthanh +       │ ⚠ Brand có      │
+  │ cụ thể hơn)                │ xedienmove (2/3) ✅     │ nhưng tiêu đề   │
+  │                            │                         │ ngắn hơn        │
+  └────────────────────────────┴─────────────────────────┴─────────────────┘
+
+  ▎ ✅ Nhận xét: Brand đã phủ gần đủ các section chính. Điểm thiếu đáng chú ý 
+  ▎ nhất là không có mục giới thiệu ngữ cảnh ("Tại sao học sinh cấp 3 nên dùng 
+  ▎ xe điện" / xu hướng 2026) — một angle mà đối thủ mở đầu để hook người đọc 
+  ▎ trước khi vào list sản phẩm.
+
+  ---
+  3.2 So sánh độ dài bài viết
+
+  ┌────────────────────┬─────────────────────┬────────┬────────────────────┐
+  │       Nguồn        │       Domain        │ Số từ  │    So với brand    │
+  ├────────────────────┼─────────────────────┼────────┼────────────────────┤
+  │ Brand              │ osakar.com.vn       │ 12.445 │ —                  │
+  ├────────────────────┼─────────────────────┼────────┼────────────────────┤
+  │ Đối thủ 1          │ xedienvietthanh.com │ 1.428  │ -11.017 từ         │
+  ├────────────────────┼─────────────────────┼────────┼────────────────────┤
+  │ Đối thủ 2          │ xedienmove.vn       │ 1.733  │ -10.712 từ         │
+  ├────────────────────┼─────────────────────┼────────┼────────────────────┤
+  │ Đối thủ 3          │ tearu.vn            │ 1.426  │ -11.019 từ         │
+  ├────────────────────┼─────────────────────┼────────┼────────────────────┤
+  │ Trung bình đối thủ │ —                   │ ~1.529 │ Brand dài hơn 8,1× │
+  └────────────────────┴─────────────────────┴────────┴────────────────────┘
+
+  ▎ ⚠️ Cảnh báo quan trọng: Brand dài hơn đối thủ 8 lần. Tuy nhiên, sau khi xem 
+  ▎ top words, phần lớn lượng từ đến từ mô tả lặp lại spec sản phẩm ("đạt 
+  ▎ chuẩn", "vượt chuẩn" lặp 61–57 lần). Đây là rủi ro thin content ẩn trong bài
+  ▎ dài — Google có thể nhận diện nội dung lặp. Cân nhắc:
+  ▎ - Rút gọn phần mô tả từng xe về 2-3 dòng key info
+  ▎ - Thêm bảng so sánh thông số thay vì prose lặp
+
+  ---
+  3.3 Định dạng brand đang thiếu
+
+  ┌────────────────────────┬───────┬─────┬─────┬─────┬───────────────────┐
+  │       Định dạng        │ Brand │ C1  │ C2  │ C3  │ Trong ≥2 đối thủ? │
+  ├────────────────────────┼───────┼─────┼─────┼─────┼───────────────────┤
+  │ Bảng (table)           │ ✅    │ ❌  │ ✅  │ ❌  │ 1/3               │
+  ├────────────────────────┼───────┼─────┼─────┼─────┼───────────────────┤
+  │ Bullet list (ul)       │ ✅    │ ✅  │ ✅  │ ✅  │ 3/3 ✅            │
+  ├────────────────────────┼───────┼─────┼─────┼─────┼───────────────────┤
+  │ Danh sách đánh số (ol) │ ❌    │ ❌  │ ❌  │ ✅  │ 1/3               │
+  ├────────────────────────┼───────┼─────┼─────┼─────┼───────────────────┤
+  │ Blockquote             │ ❌    │ ❌  │ ❌  │ ❌  │ 0/3               │
+  ├────────────────────────┼───────┼─────┼─────┼─────┼───────────────────┤
+  │ FAQ                    │ ❌    │ ❌  │ ❌  │ ❌  │ 0/3               │
+  ├────────────────────────┼───────┼─────┼─────┼─────┼───────────────────┤
+  │ Kết luận               │ ❌    │ ❌  │ ❌  │ ❌  │ 0/3               │
+  ├────────────────────────┼───────┼─────┼─────┼─────┼───────────────────┤
+  │ Mục lục (TOC)          │ ❌    │ ❌  │ ❌  │ ❌  │ 0/3               │
+  └────────────────────────┴───────┴─────┴─────┴─────┴───────────────────┘
+
+  ▎ 💡 Gợi ý riêng cho brand (dù đối thủ chưa làm, nhưng bài 12k từ cần):
+  ▎ - Mục lục (TOC) — Bài 12.445 từ mà không có mục lục thì user rất khó 
+  ▎ navigate. Đây là UX issue ảnh hưởng bounce rate.
+  ▎ - Kết luận — Không có kết luận khiến bài "cụt" và bỏ lỡ cơ hội chèn lại 
+  ▎ keyword chính một lần nữa.
+  ▎ - FAQ — None of competitors have it → đây là cơ hội chiếm featured snippet 
+  ▎ dạng FAQ trên SERP.
+
+  ---
+  3.4 LSI Keyword brand cần bổ sung
+
+  Top từ xuất hiện ≥2 đối thủ nhưng không nằm trong top 20 của brand:
+
+  ┌─────┬───────────┬───────────────────────────┬───────────────────────────┐
+  │  #  │   LSI     │    Tần suất ở đối thủ     │      Gợi ý chèn vào       │
+  │     │  Keyword  │                           │                           │
+  ├─────┼───────────┼───────────────────────────┼───────────────────────────┤
+  │ 1   │ chất      │ C1 (10) + C2 (7) — 2/3    │ Mục "Tiêu chí chọn mua"   │
+  │     │ lượng     │ bài                       │                           │
+  ├─────┼───────────┼───────────────────────────┼───────────────────────────┤
+  │ 2   │ mẫu       │ C1 (13) + C2 (27) + C3    │ Tiêu đề và mở đầu mỗi     │
+  │     │           │ (8) — 3/3 bài             │ section sản phẩm          │
+  ├─────┼───────────┼───────────────────────────┼───────────────────────────┤
+  │ 3   │ lựa chọn  │ C1 (5) + C2 (9) — 2/3 bài │ Mục giới thiệu tổng quan  │
+  ├─────┼───────────┼───────────────────────────┼───────────────────────────┤
+  │ 4   │ hiện đại  │ C1 (5) + C2 (5) — 2/3 bài │ Mô tả thiết kế sản phẩm   │
+  ├─────┼───────────┼───────────────────────────┼───────────────────────────┤
+  │ 5   │ bảo hành  │ C1 (bảo: 8) + C2 (bảo:    │ Mục "Lưu ý khi mua"       │
+  │     │           │ 11) — 2/3 bài             │                           │
+  ├─────┼───────────┼───────────────────────────┼───────────────────────────┤
+  │ 6   │ công suất │ C1 (8) + C2 (11) — 2/3    │ Tiêu chí chọn mua (motor) │
+  │     │           │ bài                       │                           │
+  ├─────┼───────────┼───────────────────────────┼───────────────────────────┤
+  │ 7   │ dòng xe   │ C3 (dòng: 7) + C2 (dụng:  │ Tên mục giới thiệu sản    │
+  │     │           │ 10) — 2/3 bài             │ phẩm                      │
+  ├─────┼───────────┼───────────────────────────┼───────────────────────────┤
+  │ 8   │ tính năng │ C2 (11) — thêm ngữ nghĩa  │ Bullet spec mỗi sản phẩm  │
+  │     │           │ SEO                       │                           │
+  └─────┴───────────┴───────────────────────────┴───────────────────────────┘
+
+  ▎ 📌 Quan trọng nhất: "chất lượng" và "mẫu" là từ ngữ nghĩa tự nhiên mà người 
+  ▎ dùng dùng khi search, brand nên tích hợp vào đầu bài và các H2.
+
+  ---
+  3.5 Cụm từ khoá (Bigram) brand chưa đề cập
+
+  ┌─────┬────────────┬─────────────────────┬────────────────────────────┐
+  │  #  │   Cụm từ   │    Có ở đối thủ     │         Gợi ý chèn         │
+  ├─────┼────────────┼─────────────────────┼────────────────────────────┤
+  │ 1   │ chất lượng │ C1, C2 (2/3)        │ Mục tiêu chí, lưu ý        │
+  ├─────┼────────────┼─────────────────────┼────────────────────────────┤
+  │ 2   │ mẫu máy    │ C1, C2, C3 (3/3 ✅) │ Tiêu đề H2, mở đầu section │
+  ├─────┼────────────┼─────────────────────┼────────────────────────────┤
+  │ 3   │ lựa chọn   │ C1, C2 (2/3)        │ Sapo, kết luận             │
+  ├─────┼────────────┼─────────────────────┼────────────────────────────┤
+  │ 4   │ hiện đại   │ C1, C2 (2/3)        │ Mô tả thiết kế             │
+  ├─────┼────────────┼─────────────────────┼────────────────────────────┤
+  │ 5   │ công suất  │ C1 (2/3 signal)     │ Tiêu chí kỹ thuật          │
+  └─────┴────────────┴─────────────────────┴────────────────────────────┘
+
+  ▎ 🔑 "mẫu máy" xuất hiện ở cả 3 đối thủ là cụm quan trọng nhất brand đang bỏ 
+  ▎ qua. Cân nhắc đổi một số chỗ "xe máy điện" thành "mẫu xe máy điện".
+
+  ---
+  3.6 Mật độ từ khoá chính
+
+  Keyword chính: "xe máy điện cho học sinh cấp 3" — đo bigram "học sinh" và "máy
+  điện":
+
+  ┌────────────────────┬───────────────────┬───────────────────┐
+  │       Nguồn        │  "học sinh" (%)   │  "máy điện" (%)   │
+  ├────────────────────┼───────────────────┼───────────────────┤
+  │ Brand (osakar)     │ 128/12445 = 1,03% │ 126/12445 = 1,01% │
+  ├────────────────────┼───────────────────┼───────────────────┤
+  │ xedienvietthanh    │ 16/1428 = 1,12%   │ 26/1428 = 1,82%   │
+  ├────────────────────┼───────────────────┼───────────────────┤
+  │ xedienmove         │ 23/1733 = 1,33%   │ 57/1733 = 3,29%   │
+  ├────────────────────┼───────────────────┼───────────────────┤
+  │ tearu              │ 13/1426 = 0,91%   │ 40/1426 = 2,81%   │
+  ├────────────────────┼───────────────────┼───────────────────┤
+  │ Trung bình đối thủ │ 1,12%             │ 2,64%             │
+  └────────────────────┴───────────────────┴───────────────────┘
+
+  ▎ ⚠️ Brand đang under-optimize cụm "xe máy điện" so với đối thủ (1,01% vs 
+  ▎ trung bình 2,64%). Lý do: bài quá dài khiến mật độ loãng. Giải pháp: rút gọn
+  ▎ nội dung lặp hoặc chèn keyword chủ động hơn vào đầu các đoạn.
+
+  ---
+  📋 TOP 5 VIỆC CẦN LÀM NGAY
+  ─────────────────────────────────────────────────────────────
+  🔴 [Cao]   Thêm Mục lục (TOC) — bài 12k từ mà không có TOC
+             là UX thảm hoạ, tăng bounce rate đáng kể
+  🔴 [Cao]   Rút gọn mô tả sản phẩm lặp ("đạt chuẩn" ×61,
+             "vượt chuẩn" ×57) → thay bằng bảng so sánh
+  🟡 [Trung] Thêm phần Kết luận + chèn lại keyword chính —
+             bài hiện đang "cụt", thiếu closing hook
+  🟡 [Trung] Tích hợp bigram "mẫu máy" vào H2 và sapo
+             (3/3 đối thủ dùng, brand chưa có)
+  🟢 [Thấp]  Tạo mục FAQ 3–5 câu để bắt featured snippet
+             (đối thủ chưa ai làm → blue ocean)
+  ─────────────────────────────────────────────────────────────
+
+✻ Baked for 2m 42s
+
+❯ /compact                                                                      
+  ⎿  Compacted (ctrl+o to see full summary)
+  ⎿  Read ../.claude/skills/compare-content-seo-competitor/install.sh (38 lines)
+  ⎿  Read ../.claude/skills/compare-content-seo-competitor/requirements.txt (4 
+     lines)
+  ⎿  Read ../.claude/skills/compare-content-seo-competitor/SKILL.md (219 lines)
+  ⎿  Read ../.claude/skills/compare-content-seo-competitor/scripts/compare.py 
+     (183 lines)
+  ⎿  Read ../.claude/skills/seo-content-writer/SKILL.md (200 lines)
+  ⎿  Skills restored (compare-content-seo-competitor, seo-content-writer)
+
+❯ Đã xong skill thứ 2, chuyển sang skill thứ 3 tên là duyet-bai-seo  với mục    
+  đích duyệt nội dung bài viết SEO dựa trên outline đã có sẵn. Đầu vào tôi sẽ   
+  có 1 url docs chứa outline bài viết, 1 url chứa bài viết hoàn chỉnh sau khi   
+  viết theo outline, và 1 từ khoá chính. Đầu ra cần check url bài viết hoàn     
+  chỉnh theo các tiêu chí sau:                                                  
+  - Kiểm tra từ khoá chính đã có trong title, sapo, kết bài, thống kê  đã xuất  
+  hiện trong heading nào chưa,thống kê  tần suất xuất hiện trong nôi dung bài   
+  viết là bao nhiêu lần                                                         
+  - Đối chiếu với outline và cho biết các phần trong outline đã được  triển     
+  khai đầy đủ trong bài viết chi tiết chưa? liệt kê các phần chưa được triển    
+  khai                                                                          
+  ⎿  Interrupted · What should Claude do instead?
+
+❯  Đã xong skill thứ 2, chuyển sang skill thứ 3 tên là duyet-bai-seo  với mục   
+  đích duyệt nội dung bài viết SEO dựa trên outline đã có sẵn. Đầu vào tôi sẽ   
+  có 1 url docs chứa outline bài viết, 1 url chứa bài viết hoàn chỉnh sau khi   
+  viết theo outline, và 1 từ khoá chính. Đầu ra cần check url bài viết hoàn     
+  chỉnh theo các tiêu chí sau:                                                  
+    - Kiểm tra từ khoá chính đã có trong title, sapo, kết bài, thống kê  đã     
+  xuất hiện trong heading nào chưa,thống kê  tần suất xuất hiện trong nôi dung  
+  bài viết là bao nhiêu lần                                                     
+    - Đối chiếu với outline và cho biết các phần trong outline đã được  triển   
+  khai đầy đủ trong bài viết chi tiết chưa? liệt kê các phần chưa được triển    
+  khai                                                                          
+  - Kiểm tra lỗi chính tả và liệt kê các lỗi chính tả trong bài                 
+  - Kiểm tra  các hình ảnh trong bài đã có chủ thích chưa, bài viết đã có hình  
+  ảnh nào chưa                                                                  
+
+⏺ Đang tạo skill thứ 3 duyet-bai-seo với đầy đủ 4 file.
+
+  Ran 1 shell command (ctrl+o to expand)
+
+⏺ Write(~/.claude/skills/duyet-bai-seo/scripts/reader.py)
+  ⎿  Wrote 210 lines to ../.claude/skills/duyet-bai-seo/scripts/reader.py
+       1 #!/usr/bin/env python3
+       2 """
+       3 reader.py — Google Docs reader for SEO content review
+       4 
+       5 Usage:
+       6   python reader.py read <google_doc_url>
+       7 """
+       8 
+       9 import json
+      10 import sys
+     … +216 lines (ctrl+o to expand)
+
+⏺ Write(~/.claude/skills/duyet-bai-seo/requirements.txt)
+  ⎿  Wrote 3 lines to ../.claude/skills/duyet-bai-seo/requirements.txt
+      1 google-api-python-client>=2.100.0
+      2 google-auth>=2.23.0
+      3 google-auth-oauthlib>=1.1.0
+
+⏺ Write(~/.claude/skills/duyet-bai-seo/install.sh)
+  ⎿  Wrote 54 lines to ../.claude/skills/duyet-bai-seo/install.sh
+       1 #!/usr/bin/env bash
+       2 # /duyet-bai-seo — installer
+       3 set -e
+       4 
+       5 SKILL_DIR="$HOME/.claude/skills/duyet-bai-seo"
+       6 
+       7 echo "=== /duyet-bai-seo — Installer ==="
+       8 echo ""
+       9 
+      10 mkdir -p "$SKILL_DIR/scripts" "$SKILL_DIR/credentials"
+     … +50 lines (ctrl+o to expand)
+
+⏺ Giờ tạo SKILL.md — phần quan trọng nhất:
+
+⏺ Write(~/.claude/skills/duyet-bai-seo/SKILL.md)
+  ⎿  Wrote 316 lines to ../.claude/skills/duyet-bai-seo/SKILL.md
+       1 ---
+       3 description: Duyệt nội dung bài viết SEO dựa trên outline có sẵn
+         le Docs) + từ khoá chính. Kiểm tra 4 tiêu chí: (1) vị trí & tần 
+         ỗi chính tả, (4) hình ảnh và chú thích. Dùng khi user gõ "duyệt 
+         eo".
+       4 when_to_use: |
+         k bài viết",
+         yet-bai-seo"
+       8 argument-hint: "<outline-url> <article-url> <keyword>"
+      10 m
+     … +351 lines (ctrl+o to expand)
+
+  Listed 1 directory, ran 1 shell command (ctrl+o to expand)
+  ⎿  1 skill available
+
+⏺ Skill thứ 3 đã tạo xong. Tổng kết 3 skills của bài tập:
+
+  ---
+  Danh sách skills hoàn chỉnh:
+
+  ┌──────────────────────────────┬───────────────┬──────────────────────────┐
+  │            Skill             │ Kết nối ngoài │     Supporting files     │
+  ├──────────────────────────────┼───────────────┼──────────────────────────┤
+  │                              │               │ scripts/sheets_handler.p │
+  │ seo-content-writer           │ Google Sheets │ y, install.sh,           │
+  │                              │  + Docs API   │ requirements.txt,        │
+  │                              │               │ credentials/             │
+  ├──────────────────────────────┼───────────────┼──────────────────────────┤
+  │ compare-content-seo-competit │ Web crawling  │ scripts/compare.py,      │
+  │ or                           │ (requests/BS4 │ install.sh,              │
+  │                              │ )             │ requirements.txt         │
+  ├──────────────────────────────┼───────────────┼──────────────────────────┤
+  │                              │               │ scripts/reader.py,       │
+  │ duyet-bai-seo                │ Google Docs   │ install.sh,              │
+  │                              │ API           │ requirements.txt,        │
+  │                              │               │ credentials/             │
+  └──────────────────────────────┴───────────────┴──────────────────────────┘
+
+  Điểm đáp ứng yêu cầu bài tập:
+  - ✅ ≥3 skills, mỗi cái trong subfolder riêng với SKILL.md
+  - ✅ Supporting files (scripts, install.sh, requirements.txt) có ở cả 3 skills
+  - ✅ Kết nối external API: Google Sheets/Docs (skill 1 + 3) + HTTP crawl
+  (skill 2)
+  - ✅ Frontmatter đầy đủ: name, description, when_to_use, user-invokable,
+  argument-hint, allowed-tools, metadata
+
+  Cách dùng skill 3:
+  /duyet-bai-seo <outline-docs-url> <article-docs-url> <keyword>
+
+  Script reader.py sẽ tự tái sử dụng oauth_client.json từ seo-content-writer nếu
+  skill không có file riêng — không cần setup OAuth lại.
+
+✻ Cooked for 5m 59s
+
+❯ /duyet-bai-seo https://docs.google.com/document/d/1pJIte-vlOFSCTF2uI3ugJFM241 
+WDeuwfIyrrzu0UBgM/edit?tab=t.0#heading=h.flni235bqu2r https://docs.google.com/d 
+ocument/d/1jePhDZydXMdUjZpQwkwwj4Q7n9NqsOQiEMUze8rgMG8/edit?tab=t.0 công thức   
+starbuck ngon                                                                   
+
+⏺ Bắt đầu chạy skill với:
+  - Keyword: công thức starbuck ngon
+  - Outline: 1pJIte-vlOFSCTF2uI3ugJFM241WDeuwfIyrrzu0UBgM
+  - Bài viết: 1jePhDZydXMdUjZpQwkwwj4Q7n9NqsOQiEMUze8rgMG8
+
+  Ran 5 shell commands (ctrl+o to expand)
+
+⏺ Cả hai đang đọc Google Docs — có thể cần xác thực OAuth nếu đây là lần đầu.
+  Kiểm tra tiến trình:
+
+  Read 2 files (ctrl+o to expand)
+⏺ Đang chờ OAuth. Kiểm tra log lỗi:
+
+  Read 1 file (ctrl+o to expand)
+
+⏺ Cả hai script đang chờ xác thực OAuth lần đầu — vì duyet-bai-seo cần token
+  riêng của nó. Trình duyệt có thể đã mở. Nếu chưa thấy, hãy kiểm tra terminal
+  có link dạng http://localhost:... không và mở nó.
+
+  Đang chờ hoàn tất...
+
+  Read 1 file, ran 1 shell command (ctrl+o to expand)
+
+⏺ Hai quá trình OAuth đang chạy song song — có thể gây xung đột. Để an toàn, hủy
+  cả hai và chạy tuần tự:
+
+  Ran 1 shell command (ctrl+o to expand)
+
+⏺ Background command "Read outline document from Google Docs" failed with exit
+code 144
+
+⏺ Background command "Read article document from Google Docs" failed with exit
+code 144
+
+⏺ Chạy lần lượt từng docs — lần đầu sẽ mở trình duyệt OAuth. Hãy xác thực khi
+  trình duyệt mở:
+
+  Ran 2 shell commands (ctrl+o to expand)
+
+⏺ Đọc xong cả hai tài liệu. Giờ đọc nội dung JSON:
+
+  Read 2 files (ctrl+o to expand)
+
+⏺ Đã có đủ dữ liệu. Đếm tần suất keyword:
+
+  Read 1 file, ran 2 shell commands (ctrl+o to expand)
+
+⏺ Có đủ dữ liệu. Xuất báo cáo đầy đủ:
+
+  ---
+  ✅ BÁO CÁO DUYỆT BÀI SEO
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🔑 Từ khoá : công thức starbuck ngon
+  📋 Outline : docs.google.com/...1pJIte...
+  📄 Bài viết: docs.google.com/...1jePh...  (1.208 từ)
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ---
+  1️⃣ Kiểm tra từ khoá chính
+
+  ▎ ⚠️ Lưu ý quan trọng: Keyword nhập vào là "starbuck" (thiếu chữ 's' cuối). 
+  ▎ Bài viết dùng "Starbucks" (đúng chính tả). Báo cáo kiểm tra cả 2 dạng.
+
+  ┌────────────────────┬─────────┬─────────────────────────────────────────┐
+  │       Vị trí       │ Có từ   │                Nội dung                 │
+  │                    │  khoá?  │                                         │
+  ├────────────────────┼─────────┼─────────────────────────────────────────┤
+  │ Tiêu đề tài liệu   │ ✅      │ "công thức starbuck ngon" (khớp exact   │
+  │ (doc_title)        │         │ keyword nhập vào)                       │
+  ├────────────────────┼─────────┼─────────────────────────────────────────┤
+  │ Sapo (đoạn đầu)    │ ✅      │ "Bạn đang tìm kiếm công thức Starbucks  │
+  │                    │         │ ngon để đổi mới khẩu vị..."             │
+  ├────────────────────┼─────────┼─────────────────────────────────────────┤
+  │ Kết bài            │ ✅      │ "...tự tay khám phá ra một công thức    │
+  │                    │         │ Starbucks ngon không chỉ mang lại..."   │
+  ├────────────────────┼─────────┼─────────────────────────────────────────┤
+  │ Tần suất trong bài │ 4 lần   │ Dạng "starbuck" (typo): 0 lần · Dạng    │
+  │                    │         │ "starbucks" (đúng): 4 lần               │
+  └────────────────────┴─────────┴─────────────────────────────────────────┘
+
+  Heading chứa từ khoá:
+    • H1: "TOP 10 công thức Starbucks ngon, siêu hot trên Tiktok" ✅
+    • Các H2 đặt tên món (không chứa keyword) — bình thường
+
+  Đánh giá: Keyword đã phủ đủ 3 vị trí quan trọng (title, sapo, kết bài) và H1.
+  Tần suất 4 lần / 1.208 từ ≈ 0,33% — hơi thấp (khuyến nghị 0,5–1,5%). Bài có
+  thể chèn thêm "công thức Starbucks ngon" 1–2 lần vào thân bài (ví dụ mở đầu
+  phần FAQ hoặc intro bảng tổng hợp).
+
+  ---
+  2️⃣ Đối chiếu Outline
+
+  Outline đề xuất 9 công thức + 1 FAQ = 10 mục. Bài viết triển khai 10 công thức
+  + 1 FAQ = 11 mục. Có 3 mục outline bị bỏ và 4 mục mới được thêm.
+
+  ┌──────────────────────────┬───────────┬──────────────────────────────────┐
+  │    Phần trong Outline    │  Trạng    │             Ghi chú              │
+  │                          │   thái    │                                  │
+  ├──────────────────────────┼───────────┼──────────────────────────────────┤
+  │ H1: TOP 9 công thức      │ ✅ Đã     │ Bài: "TOP 10 công thức..." (đổi  │
+  │ Starbucks cực ngon       │ triển     │ thành 10)                        │
+  │                          │ khai      │                                  │
+  ├──────────────────────────┼───────────┼──────────────────────────────────┤
+  │ H2: Công thức Matcha     │ ✅ Đã     │                                  │
+  │ Latte                    │ triển     │ Bài: "2. Matcha Latte"           │
+  │                          │ khai      │                                  │
+  ├──────────────────────────┼───────────┼──────────────────────────────────┤
+  │ H2: Công thức Iced       │ ✅ Đã     │ Bài: "1. Iced Strawberry Crunch  │
+  │ Strawberry Crunch Pure   │ triển     │ Pure Matcha Latte" (hoán vị lên  │
+  │ Matcha                   │ khai      │ đầu)                             │
+  ├──────────────────────────┼───────────┼──────────────────────────────────┤
+  │                          │ ⚠️ Gần    │ Bài: "6. Trà bưởi chanh mật ong  │
+  │ H2: Công thức Trà Bưởi   │ đúng      │ đá xay" (mở rộng tên, đúng tinh  │
+  │                          │           │ thần)                            │
+  ├──────────────────────────┼───────────┼──────────────────────────────────┤
+  │ H2: Công thức Caramel    │ ❌ Chưa   │ Không tìm thấy mục tương đương   │
+  │ Frappuccino              │ có        │ trong bài                        │
+  ├──────────────────────────┼───────────┼──────────────────────────────────┤
+  │ H2: Công thức Caramel    │ ✅ Đã     │                                  │
+  │ Macchiato                │ triển     │ Bài: "3. Caramel Macchiato"      │
+  │                          │ khai      │                                  │
+  ├──────────────────────────┼───────────┼──────────────────────────────────┤
+  │ H2: Công thức Cà Phê     │ ✅ Đã     │                                  │
+  │ Muối                     │ triển     │ Bài: "7. Cà phê caramel muối"    │
+  │                          │ khai      │                                  │
+  ├──────────────────────────┼───────────┼──────────────────────────────────┤
+  │ H2: Công thức Cold Brew  │ ❌ Chưa   │ Không tìm thấy mục Cold Brew     │
+  │ Bưởi                     │ có        │ Bưởi                             │
+  ├──────────────────────────┼───────────┼──────────────────────────────────┤
+  │ H2: Công thức Trà Đen    │ ❌ Chưa   │ Không tìm thấy Trà Đen Chanh     │
+  │ Chanh                    │ có        │ trong bài                        │
+  ├──────────────────────────┼───────────┼──────────────────────────────────┤
+  │                          │ ✅ Đã     │ Bài: "9. Marble Chocolate bạc    │
+  │ H2: Công thức Bạc Xỉu    │ triển     │ xỉu"                             │
+  │                          │ khai      │                                  │
+  ├──────────────────────────┼───────────┼──────────────────────────────────┤
+  │                          │ ✅ Đã     │ Bài: "Những câu hỏi thường gặp   │
+  │ H2: FAQ                  │ triển     │ (FAQs)..."                       │
+  │                          │ khai      │                                  │
+  └──────────────────────────┴───────────┴──────────────────────────────────┘
+
+  Mục thêm trong bài (không có trong outline):
+    d. Peppermint Mocha Frappuccino
+    e. Iced Cloud Macchiato
+    h. Cà phê cốt dừa caramel
+    j. Cà phê cốt dừa socola đá xay
+
+  ❌ Các phần outline CHƯA được triển khai:
+    1. Công thức Caramel Frappuccino (H2)
+    2. Công thức Cold Brew Bưởi (H2)
+    3. Công thức Trà Đen Chanh (H2)
+
+  ---
+  3️⃣ Kiểm tra lỗi chính tả & ngữ pháp
+
+  ┌─────┬───────────────┬────────┬──────────────────────────────────────────┐
+  │  #  │  Từ/cụm sai   │  Sửa   │                 Ngữ cảnh                 │
+  │     │   trong bài   │ thành  │                                          │
+  ├─────┼───────────────┼────────┼──────────────────────────────────────────┤
+  │     │               │ "mà    │ "...tạo nên hiệu ứng marble đẹp mắt      │
+  │ 1   │ "nhưng còn"   │ còn"   │ không chỉ tăng thêm hương vị nhưng còn   │
+  │     │               │        │ khiến..." (lần 1)                        │
+  ├─────┼───────────────┼────────┼──────────────────────────────────────────┤
+  │     │               │ "mà    │ "...công thức Starbucks ngon không chỉ   │
+  │ 2   │ "nhưng còn"   │ còn"   │ mang lại niềm vui sáng tạo nhưng còn     │
+  │     │               │        │ giúp bạn..." (lần 2)                     │
+  ├─────┼───────────────┼────────┼──────────────────────────────────────────┤
+  │     │ "khi trải     │        │ "...đầy cuốn hút khi trải nghiệm." ← từ  │
+  │ 3   │ nghiệm"       │ Xóa bỏ │ "trải nghiệm" đã xuất hiện ngay trước đó │
+  │     │ (thừa)        │        │  trong câu                               │
+  └─────┴───────────────┴────────┴──────────────────────────────────────────┘
+
+  ▎ Lỗi #1 & #2 là lỗi ngữ pháp quan trọng: Cấu trúc "không chỉ... mà còn..." 
+  ▎ mới đúng; dùng "nhưng còn" là sai văn phạm tiếng Việt chuẩn.
+
+  ---
+  4️⃣ Kiểm tra hình ảnh & Chú thích
+
+  Tổng số hình ảnh: 12 ảnh
+
+  ┌─────┬──────────────┬─────────────────────────────────────────┬──────────┐
+  │  #  │   Có chú     │           Nội dung chú thích            │   Alt    │
+  │     │    thích?    │                                         │  text?   │
+  ├─────┼──────────────┼─────────────────────────────────────────┼──────────┤
+  │ 1   │ ❌           │ — (bảng tổng hợp đầu bài)               │ ❌       │
+  ├─────┼──────────────┼─────────────────────────────────────────┼──────────┤
+  │ 2   │ ✅           │ "Iced Strawberry Crunch Pure Matcha     │ ❌       │
+  │     │              │ Latte"                                  │          │
+  ├─────┼──────────────┼─────────────────────────────────────────┼──────────┤
+  │ 3   │ ✅           │ "Matcha Latte"                          │ ❌       │
+  ├─────┼──────────────┼─────────────────────────────────────────┼──────────┤
+  │ 4   │ ✅           │ "Caramel Macchiato"                     │ ❌       │
+  ├─────┼──────────────┼─────────────────────────────────────────┼──────────┤
+  │ 5   │ ✅           │ "Peppermint Mocha Frappuccino"          │ ❌       │
+  ├─────┼──────────────┼─────────────────────────────────────────┼──────────┤
+  │ 6   │ ✅           │ "Iced Cloud Macchiato"                  │ ❌       │
+  ├─────┼──────────────┼─────────────────────────────────────────┼──────────┤
+  │ 7   │ ✅           │ "Trà bưởi chanh mật ong đá xay"         │ ❌       │
+  ├─────┼──────────────┼─────────────────────────────────────────┼──────────┤
+  │ 8   │ ✅           │ "Cà phê caramel muối"                   │ ❌       │
+  ├─────┼──────────────┼─────────────────────────────────────────┼──────────┤
+  │ 9   │ ✅           │ "Cà phê cốt dừa caramel"                │ ❌       │
+  ├─────┼──────────────┼─────────────────────────────────────────┼──────────┤
+  │ 10  │ ✅           │ "Marble Chocolate bạc xỉu"              │ ❌       │
+  ├─────┼──────────────┼─────────────────────────────────────────┼──────────┤
+  │ 11  │ ✅           │ "Cà phê cốt dừa socola đá xay"          │ ❌       │
+  ├─────┼──────────────┼─────────────────────────────────────────┼──────────┤
+  │ 12  │ ✅           │ "Starbucks AEON MALL Đà Nẵng Thanh Khê" │ ❌       │
+  └─────┴──────────────┴─────────────────────────────────────────┴──────────┘
+
+  Đánh giá: 11/12 ảnh có chú thích (91,7%). Ảnh số 1 (bảng tổng hợp) thiếu chú
+  thích. Toàn bộ 12/12 ảnh chưa có alt text — đây là vấn đề SEO quan trọng vì
+  Google đọc alt text để hiểu nội dung ảnh.
+
+  ---
+  📊 KẾT QUẢ DUYỆT BÀI
+  ─────────────────────────────────────────────────────
+  Tiêu chí                    | Kết quả | Ghi chú
+  ─────────────────────────────────────────────────────
+  1. Từ khoá chính            |  ⚠️     | Keyword trong keyword nhập vào bị typo
+  ("starbuck"); bài viết dùng đúng "Starbucks". Đủ 3 vị trí + H1
+  2. Độ phủ outline           |  ⚠️     | 7/10 mục đã triển khai, còn thiếu 3
+  công thức
+  3. Lỗi chính tả/ngữ pháp   |  ⚠️     | 3 lỗi: "nhưng còn" (×2) và "khi trải
+  nghiệm" thừa
+  4. Hình ảnh & chú thích     |  ⚠️     | 11/12 ảnh có chú thích; 0/12 có alt
+  text
+  ─────────────────────────────────────────────────────
+  📋 CẦN SỬA TRƯỚC KHI ĐĂNG:
+    🔴 Sửa "nhưng còn" → "mà còn" (2 lần) — lỗi ngữ pháp rõ ràng
+    🔴 Bổ sung alt text cho 12 ảnh — ảnh không có alt text gây thiệt thòi SEO
+    🟡 Bổ sung chú thích ảnh #1 (bảng tổng hợp đầu bài)
+    🟡 Xem xét thêm 3 công thức outline bị thiếu (Caramel Frappuccino,
+       Cold Brew Bưởi, Trà Đen Chanh) hoặc cập nhật lại outline
+    🟢 Tăng tần suất keyword từ 0,33% → 0,5-1% bằng cách thêm 1-2 lần
+       vào thân bài
+    🟢 Sửa keyword nhập vào thành "công thức starbucks ngon" (thêm 's')
+  ─────────────────────────────────────────────────────
+
+✻ Brewed for 10m 24s
+
+※ recap: Đã tạo và chạy thử thành công 3 skills SEO: seo-content-writer, compare-content-seo-competitor, duyet-bai-seo. Bước tiếp theo là chụp ảnh màn hình kết quả test để nộp bài tập. (disable recaps in /config)
+
+❯ Upload 3 skills lên github đã login trước đây                                 
+  https://github.com/ngviethangg?tab=repositories                               
+
+⏺ Kiểm tra trạng thái GitHub và các skill cần upload:
+
+  Ran 1 shell command (ctrl+o to expand)
+
+✻ Crunched for 25s
+
+❯ 3 skill tôi vừa tạo là  /seo-content-writer /compare-content-seo-competitor   
+  /duyet-bai-seo đều đã chạy thử kết quả và đã chạy thành công, hãy đưa các kết 
+  quả sau khi chạy thử vào một folder tên                                       
+
+⏺ Tin nhắn của bạn bị cắt ở chỗ "vào một folder tên" — bạn muốn đặt tên folder
+  là gì?
+
+✻ Churned for 6s
+
+❯ Output                                                                        
+
+⏺ Tạo folder Output và lưu kết quả thực chạy của cả 3 skills:
+
+  Ran 1 shell command (ctrl+o to expand)
+
+⏺ Write(Output/seo-content-writer.md)
+  ⎿  Wrote 57 lines to Output/seo-content-writer.md
+      1 # Output: /seo-content-writer
+      2 
+      3 ## Thông tin chạy thử
+      4 
+      5 - **Skill:** `/seo-content-writer`
+      6 - **Nguồn dữ liệu:** Google Sheets `1_kQ_BPMuUGPd9aeks7RooMR8dBUb
+        UMQSPaw_2FoMVac`
+      7 - **Trạng thái:** ✅ Chạy thành công
+      8 
+      9 ---
+     … +53 lines (ctrl+o to expand)
+
+⏺ Write(Output/compare-content-seo-competitor.md)  ⎿  Wrote 101 lines to Output/compare-content-seo-competitor.md
+       1 # Output: /compare-content-seo-competitor
+       2 
+       3 ## Thông tin chạy thử
+       4 
+       5 - **Skill:** `/compare-content-seo-competitor`
+          6 mục
+       7 
+       8 ---
+       9 
+      10 ## Đầu vào
+     … +100 lines (ctrl+o to expand)
+
+⏺ Write(Output/duyet-bai-seo.md)
+  ⎿  Wrote 122 lines to Output/duyet-bai-seo.md
+       1 # Output: /duyet-bai-seo
+       2 
+       3 ## Thông tin chạy thử
+       4 
+       5 - **Skill:** `/duyet-bai-seo`
+         ích đủ 4 tiêu chí
+       7 
+       8 ---
+       9 
+      10 ## Đầu vào
+     … +127 lines (ctrl+o to expand)
+
+  Listed 1 directory (ctrl+o to expand)
+
+⏺ Folder Output đã có đủ 3 file:
+
+  Output/
+  ├── seo-content-writer.md         — kết quả viết bài SEO từ Google Sheets
+  ├── compare-content-seo-competitor.md  — báo cáo phân tích 4 URL (osakar vs
+  đối thủ)
+  └── duyet-bai-seo.md              — báo cáo duyệt bài Starbucks (outline vs
+  bài viết)
+
+  Mỗi file ghi đầy đủ: đầu vào, luồng xử lý, và kết quả phân tích chi tiết. Bước
+  tiếp theo muốn push lên GitHub không?
+
+✻ Cooked for 2m 11s
+
+❯ Đã xong cả 3 skill, hãy push  cả 3 skill trên lên github                      
+  https://github.com/ngviethangg?tab=repositories                               
+
+⏺ Kiểm tra auth và chuẩn bị cấu trúc để push:
+
+  Listed 1 directory, ran 1 shell command (ctrl+o to expand)
+
+⏺ GitHub đã đăng nhập. Tạo cấu trúc thư mục để push — bỏ qua file nhạy cảm
+  (oauth_client.json, token.json, .venv):
+
+  Ran 1 shell command (ctrl+o to expand)
+
+⏺ Write(.gitignore)
+  ⎿  Wrote 16 lines to .gitignore
+       1 # OAuth credentials — KHÔNG commit file này
+       2 oauth_client.json
+       3 credentials/
+       4 *.json.bak
+       5 
+       6 # Python virtual environment
+       7 .venv/
+       8 __pycache__/
+       9 *.pyc
+      10 *.pyo
+     … +6 lines (ctrl+o to expand)
+
+⏺ Write(README.md)
+  ⎿  Wrote 67 lines to README.md
+       1 # Claude Code Skills — BTVN Buổi 3
+       2 
+       3 Bộ 3 skills Claude Code được tạo cho bài tập về nhà buổi 3.
+       5 ## Danh sách Skills
+       6 
+       7 ### 1. `/seo-content-writer`
+       8 Viết bài SEO 500–800 từ từ Google Sheets, tạo Google Docs và trả
+          URL về sheet.
+      10 - **Kết nối ngoài:** Google Sheets API + Google Docs API + Googl
+         e Drive API
+     … +68 lines (ctrl+o to expand)
+
+  Searched for 1 pattern, listed 3 directories, ran 1 shell command (ctrl+o to expand)
+
+⏺ Output nằm trong .claude/ — di chuyển ra ngoài và stage đúng:
+
+  Committed 623f254, ran 3 shell commands (ctrl+o to expand)
+
+⏺ Push thành công. Repo đã lên GitHub:
+
+  https://github.com/ngviethangg/claude-code-skills
+
+  Cấu trúc đã push:
+  claude-code-skills/
+  ├── .claude/skills/
+  │   ├── seo-content-writer/        (SKILL.md + install.sh + scripts/)
+  │   ├── compare-content-seo-competitor/  (SKILL.md + install.sh + scripts/)
+  │   └── duyet-bai-seo/             (SKILL.md + install.sh + scripts/)
+  ├── Output/
+  │   ├── seo-content-writer.md
+  │   ├── compare-content-seo-competitor.md
+  │   └── duyet-bai-seo.md
+  ├── README.md
+  └── .gitignore
+
+  Các file nhạy cảm đã được bỏ qua: oauth_client.json, credentials/token.json,
+  .venv/.
+
+✻ Baked for 2m 51s
+
+※ recap: Đã tạo xong 3 Claude Code skills (seo-content-writer, compare-content-seo-competitor, duyet-bai-seo), chạy thử cả 3 thành công, lưu kết quả vào folder Output, và push toàn bộ lên GitHub tại github.com/ngviethangg/claude-code-skills. (disable recaps in /config)
