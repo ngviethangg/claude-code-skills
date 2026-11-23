@@ -34,6 +34,30 @@ Tạo báo cáo hiệu quả SEO & Chuyển đổi hàng tháng (GA4 + Search Co
 - **Cách dùng:** `/cro-report` (chọn hồ sơ website có sẵn hoặc tạo mới)
 - **Lưu ý dữ liệu:** `profiles/*.json` (trừ `_template.json`) và `reports/` chứa thông tin định danh + số liệu thật của khách hàng — bị `.gitignore` chặn, không commit.
 
+### 5. `/viet-bai-seo-html-cms`
+Viết bài SEO hoàn chỉnh (3000–8000 từ) từ keyword + outline, xuất ra mã HTML dán thẳng vào CMS, dùng lại ảnh bài cũ, kèm Title/Meta nghiên cứu TOP Google. Giao trên 1 trang artifact có nút Copy riêng cho từng trường.
+
+- **Kết nối ngoài:** Google Docs (đọc outline), WebFetch/WebSearch (nghiên cứu, lấy ảnh bài cũ)
+- **Supporting files:** chỉ `SKILL.md` (không script/dependency)
+- **Cách dùng:** `/viet-bai-seo-html-cms` (nêu từ khoá + outline + URL bài cũ)
+- **⚠️ Giới hạn trong Claude Code:** skill viết cho Claude.ai/Cowork — phần đọc hồ sơ Project (`project_info`) và kiểm tra ảnh bằng trình duyệt tích hợp (`Claude_Browser__javascript_tool`/`preview_start`) không chạy được trong Claude Code CLI; phần đọc outline/viết bài/xuất artifact vẫn dùng được.
+
+### 6. `/check-top-tu-khoa`
+Check thứ hạng Google thực tế (phiên chưa đăng nhập, google.com.vn, top 20) cho danh sách từ khoá của một website, cập nhật trang theo dõi có ô tick, nút Check lại, nút Copy.
+
+- **Kết nối ngoài:** Google Search (qua trình duyệt tích hợp của Cowork)
+- **Supporting files:** chỉ `SKILL.md`
+- **Cách dùng:** `/check-top-tu-khoa` (gửi danh sách từ khoá + domain)
+- **⚠️ Giới hạn trong Claude Code:** dùng `tabs_context_mcp` + `javascript_tool` (chỉ có trên Claude.ai/Cowork) để đọc kết quả Google thật — **không chạy được trong Claude Code CLI** cho tới khi có công cụ trình duyệt tương đương.
+
+### 7. `/bao-cao-backlink-bao-guestpost`
+Tạo báo cáo index Google + ghi nhận Ahrefs cho link báo/guest post, xuất trang có bộ lọc và nút copy link lỗi.
+
+- **Kết nối ngoài:** Google Search (check index), Ahrefs (MCP tool)
+- **Supporting files:** chỉ `SKILL.md`
+- **Cách dùng:** `/bao-cao-backlink-bao-guestpost` (gửi danh sách link + domain)
+- **⚠️ Giới hạn trong Claude Code:** bước check index dùng `javascript_tool` (chỉ có trên Claude.ai/Cowork) — không chạy được ở đây; phần check Ahrefs qua MCP và dựng báo cáo vẫn dùng được.
+
 ---
 
 ## Cấu trúc thư mục
@@ -59,13 +83,19 @@ Tạo báo cáo hiệu quả SEO & Chuyển đổi hàng tháng (GA4 + Search Co
     │   ├── requirements.txt
     │   └── scripts/
     │       └── reader.py
-    └── cro-report/
-        ├── SKILL.md
-        ├── install.sh
-        ├── assets/
-        ├── profiles/_template.json
-        └── scripts/
-            └── {preflight,collect,build,crm,render,export_pdf,common}.py
+    ├── cro-report/
+    │   ├── SKILL.md
+    │   ├── install.sh
+    │   ├── assets/
+    │   ├── profiles/_template.json
+    │   └── scripts/
+    │       └── {preflight,collect,build,crm,render,export_pdf,common}.py
+    ├── viet-bai-seo-html-cms/
+    │   └── SKILL.md
+    ├── check-top-tu-khoa/
+    │   └── SKILL.md
+    └── bao-cao-backlink-bao-guestpost/
+        └── SKILL.md
 Output/
 ├── seo-content-writer.md
 ├── compare-content-seo-competitor.md
