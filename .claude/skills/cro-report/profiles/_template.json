@@ -1,0 +1,59 @@
+{
+  "slug": "SLUG",
+  "client_name": "Tên khách hàng",
+  "agency": "SEONGON",
+  "domain": "example.com",
+  "hostnames": ["www.example.com", "example.com"],
+  "seo_analyst_profile": "SLUG",
+  "cro_setup_profile": "SLUG",
+  "ga4_property_id": "",
+  "gsc_site_url": "https://www.example.com/",
+  "gtm_public_id": "GTM-XXXXXXX",
+
+  "brand": {"b1": "#0573fd", "b2": "#1ea0ff", "b3": "#1eb2ff"},
+
+  "period": {"start_day": 1, "end_day": 0, "compare_days": null},
+
+  "contact_path": "/lien-he",
+  "home_path": "/",
+  "bot_landing_pages": [],
+  "bot_note": "",
+  "excluded_landing_pages": ["/404"],
+  "exclude_conversions": [],
+
+  "brand_keywords": ["example"],
+
+  "interest_events": [
+    {"event": "form_start", "label": "Bắt đầu điền form", "desc": "Chạm vào ô đầu tiên của form"}
+  ],
+  "cta_event": "",
+
+  "markets": {
+    "order": ["Việt Nam", "Khác", "(không xác định)"],
+    "map": {"Vietnam": "Việt Nam", "(not set)": "(không xác định)"},
+    "default": "Khác"
+  },
+
+  "page_types": [
+    {"label": "Trang chủ", "match": "^/$"},
+    {"label": "Blog", "match": "^/blog/.+", "blog": true},
+    {"label": "Trang liên hệ", "match": "^/lien-he"}
+  ],
+  "page_type_default": "Trang khác",
+  "blog_prefix": "/blog/",
+  "blog_topics": [],
+  "blog_topic_default": {"label": "Chung", "tech": false},
+
+  "ai_sources_regex": "chatgpt|openai|gemini|perplexity|claude|copilot|bard|deepseek|grok|you\\.com|phind",
+
+  "crm": {"enabled": false},
+  "content_plan": {"enabled": false},
+
+  "competitors": {
+    "primary": [],
+    "secondary": [],
+    "self_name": "Tên khách hàng",
+    "self_domain": "example.com",
+    "local_market": "vn"
+  }
+}

@@ -14,3 +14,8 @@ __pycache__/
 
 # Claude local settings
 .claude/settings.local.json
+
+# cro-report — hồ sơ & dữ liệu báo cáo thật của khách hàng, không commit
+.claude/skills/cro-report/profiles/*.json
+!.claude/skills/cro-report/profiles/_template.json
+.claude/skills/cro-report/reports/
